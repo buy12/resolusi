@@ -1,1 +1,6 @@
 Ini resolusi
+
+
+satu
+dua
+tiga
